@@ -17,7 +17,7 @@ The Image Search App is a web application designed to facilitate the search and 
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- **APIs:** Unsplash[https://unsplash.com/]
+- **APIs:** [Unsplash](https://unsplash.com/)
 - **Deployment:** Github
 
 ## Usage
