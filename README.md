@@ -17,10 +17,7 @@ The Image Search App is a web application designed to facilitate the search and 
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** [Backend Framework/Language]
-- **Database:** [Database System]
-- **APIs:** [APIs used for image search]
-- **Deployment:** [Hosting platform]
+- **Deployment:** Github
 
 ## Usage
 
@@ -47,4 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or support, please contact [Your Name](mailto:youremail@example.com).
+For any inquiries or support, please contact [Russel Tjahjadi](mailto:russel.abraham123@gmail.com).
