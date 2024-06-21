@@ -6,6 +6,11 @@
 
 The Image Search App is a web application designed to facilitate the search and discovery of images. It allows users to search for images using keywords and provides a visually appealing interface to view and interact with the search results.
 
+## 🔗 Project Link
+
+Try out the app here: https://russel-t.github.io/Simple-Calculator-App/
+
+
 ## ✨ Features
 
 - 🔍 **Keyword Search:** Users can enter keywords to search for relevant images.
