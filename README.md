@@ -8,7 +8,7 @@ The Image Search App is a web application designed to facilitate the search and 
 
 ## 🔗 Project Link
 
-Try out the app here: https://russel-t.github.io/Simple-Calculator-App/
+Try out the app here: [https://russel-t.github.io/Simple-Calculator-App/](https://russel-t.github.io/Image-Search-App/)
 
 
 ## ✨ Features
